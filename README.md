@@ -1,6 +1,12 @@
 ### Hi there 👋
+
+Copy and SaveShare
 👩‍💻 I'm currwntly working on my new projects on NLP and ML related 
 
+Copy and SaveShare�
+
+
+Copy and SaveShare
 👩‍💻 I'm currently learning algorithms and DSA
 
 ⌨️ I'm looking to collaborate on Open-source projects related to artificial intelligence and data science.
