@@ -4,7 +4,7 @@
 
 
 
-👩‍💻 I'm currently learning algorithms and DSA
+👩‍💻 I'm currently working on data scince projects
 
 ⌨️ I'm looking to collaborate on Open-source projects related to artificial intelligence and data science.
 
